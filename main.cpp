@@ -6,7 +6,7 @@
 #include<vector>
 using namespace std;
 
-// Variables and macros for assertions, DO NOT CHANGE ****
+// Variables and macros for assertions, DO NOT CHANGE **** 
 int totalAssertions = 0;
 int passedAssertions  = 0;
 #define expect( chk )  \
