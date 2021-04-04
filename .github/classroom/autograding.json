@@ -1,0 +1,24 @@
+{
+  "tests": [
+    {
+      "name": "cmake and make",
+      "setup": "",
+      "run": "cmake . && make",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    },
+    {
+      "name": "run",
+      "setup": "",
+      "run": "./main",
+      "input": "",
+      "output": "",
+      "comparison": "included",
+      "timeout": 10,
+      "points": null
+    }
+  ]
+}
