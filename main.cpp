@@ -25,7 +25,7 @@ int passedAssertions  = 0;
 //*******************************************************
 
 
-// This class is able to store either a symbol or a float.
+// This class is able to store either a symbol or a float. 
 class token {
 public:
   char type;
